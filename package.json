@@ -1,8 +1,8 @@
 {
-  "name": "DeveloperStevenMarin",
+  "name": "goit-js-team-job",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/DeveloperStevenMarin/goit-js-team-job",
+  "homepage": "https://github.com/DeveloperStevenMarin/goit-js-team-job/",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /goit-js-team-job/"
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Steven Marin <developerstevenmarin@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
